@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Roboto;
+}
+
+nav {
+    padding: 1%;
+    display: flex;
+    justify-content: space-around;
+    background-color: darkred;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+nav a img {
+    float: right;
+}
