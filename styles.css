@@ -25,5 +25,27 @@ nav a img {
 }
 
 body {
+    margin: 0;
     background-color: #68B7E0;
+}
+
+body div {
+    padding: 1%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+body div span {
+    align-items: center;
+    display: inline-block;
+}
+
+body div span * {
+    width: 100%;
+}
+
+body div span {
+    width: 33%;
+    margin: 4%
 }
