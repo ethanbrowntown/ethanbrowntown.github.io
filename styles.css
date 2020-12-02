@@ -35,6 +35,12 @@ body div {
     flex-wrap: wrap;
 }
 
+body img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 body div span {
     align-items: center;
     display: inline-block;
