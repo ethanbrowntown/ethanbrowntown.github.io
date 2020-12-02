@@ -9,10 +9,9 @@ html {
 }
 
 nav {
-    padding: 1%;
     display: flex;
     justify-content: space-around;
-    background-color: lightskyblue;
+    background-color: #68B7E0;
 }
 
 nav a {
@@ -26,7 +25,7 @@ nav a img {
 
 body {
     margin: 0;
-    background-color: #68B7E0;
+    background-color: lightskyblue;
 }
 
 body div {
