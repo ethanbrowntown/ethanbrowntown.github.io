@@ -58,9 +58,3 @@ body div span {
 a {
     color: black;
 }
-
-body div div * {
-    width: 51%;
-    display: block;
-    margin: auto;
-}
